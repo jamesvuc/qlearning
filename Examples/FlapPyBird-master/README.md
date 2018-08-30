@@ -1,3 +1,5 @@
+This is the readme from the original FlappyBird Clone. It seems appropriate to leave it in.
+
 FlappyBirdClone
 ===============
 
